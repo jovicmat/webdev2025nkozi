@@ -1,0 +1,56 @@
+.cv-container img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit:cover;
+}
+
+.header{
+    text-align: center;
+background-color: yellow;
+
+}
+body{
+
+    margin: 0;
+    background-color: bisque;
+}
+.contact-info{
+    padding: 15px;
+    color: brown;
+    display: flex; 
+    box-sizing: border-box;
+    box-shadow: 15px;
+    background-color: beige;
+}
+.expert{
+width: 100%;
+height: 100%;
+
+}
+.educ{
+    background-color: forestgreen;
+
+}
+.ref{
+    background-color: aqua;
+}
+.summary{
+    background-color: blue;
+}
+.experience{
+    background-color: chartreuse;
+}
+    
+
+.cv-container{
+    box-shadow: 0 15px 20px;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: solid;
+    border-radius: 50px;
+    box-sizing: border-box;
+    margin-left: 100px;
+    margin-right: 100px;
+}
